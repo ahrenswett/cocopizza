@@ -30,9 +30,6 @@ header section div p{
     font-size: 8px;
 }
 
-header ul{
-}
-
 header ul li{
     margin-top: .5em;
     margin-bottom: 1.5em;
@@ -74,3 +71,105 @@ main section p{
 main #print img, main #print p{
     display: inline-block;
 }
+
+.hero{
+    width: 100%;
+    margin: 1em 0 1em 0;
+}
+
+#main p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: .9em;
+    text-indent: 1.5em;
+}
+
+#background{
+    width: 864px;
+    height: auto;
+    z-index: -1;
+    position: absolute;
+    margin-top: .5em;
+}
+
+#first-list{
+    margin-left: 3.4em;
+    margin-right: 15em;
+    float: left;
+}
+
+#first-list li{
+    margin-bottom: .85em;
+}
+
+#second-list{
+    margin-top: 3.4em;
+    margin-bottom: 7em;
+}
+
+#second-list li{
+    margin-bottom: .85em;
+}
+
+main hr{
+    border: medium solid lightgray;
+}
+
+#vanHead{
+    float: left;
+    margin-right: 1em;
+    width: 50px;
+}
+
+#van{
+    float: left;
+   
+}
+
+#van h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1em;   
+}
+
+#van p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: .9em;
+    color:black;
+    width: 95%;
+}
+
+button{
+    padding: 1em 2em 1em 2em;
+    background-color: darkred;
+    color: white;
+    margin: 1em 0 2em 16.52em;
+
+}
+
+
+
+/* header section img{
+    float: left;
+    margin-right: .5em;
+    width: 45px;
+    height: 45px;
+}
+
+header section div{
+    float: left;
+}
+
+header h2{
+    font-family: 'Yellowtail', cursive;
+    font-size: 2.3em;
+}
+
+header section div p{
+    font-family: sans-serif;
+    font-size: 8px;
+}
+
+header ul li{
+    margin-top: .5em;
+    margin-bottom: 1.5em;
+    display: inline-block;
+} */
